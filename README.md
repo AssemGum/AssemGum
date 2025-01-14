@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AssemGum
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python for analysis
+- 👀 I’m learning data analytics
+  
 
 
 <!---
